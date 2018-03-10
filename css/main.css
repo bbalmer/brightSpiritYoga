@@ -1304,3 +1304,11 @@ footer {
 .copyright p a:hover {
     color: #fdb143;
 }
+
+.img-fulid {
+    height: 90px;
+}
+
+.contact {
+    color: #fff;
+}
